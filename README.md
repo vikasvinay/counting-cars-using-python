@@ -1,2 +1,2 @@
 # silver-succotash
-To controll a four lane junction using Digital Imagr processing
+To controll traffic on four lane junction using Digital Imagr processing
